@@ -16,9 +16,9 @@
             "description": "Vorstand"
         },
         {
-            "id": "5fe800fe-5503-40cc-8e49-dc6cf2819eeb",
+            "id": "e8b944aa-20e7-41be-808e-047d0e19dba2",
             "startDate": "2024-03-28",
-            "fromId": "c847cdd2-3b46-4b35-bb99-6c89b569b67c",
+            "fromId": "241655a5-b43a-4e38-b542-7a2f75075532",
             "fromType": "PERSON",
             "toId": "52b7014c-db6f-4cdf-ac39-1e182508768a",
             "toType": "COMPANY",
@@ -29,9 +29,9 @@
             "description": "Prokurist/in"
         },
         {
-            "id": "e8b944aa-20e7-41be-808e-047d0e19dba2",
+            "id": "5fe800fe-5503-40cc-8e49-dc6cf2819eeb",
             "startDate": "2024-03-28",
-            "fromId": "241655a5-b43a-4e38-b542-7a2f75075532",
+            "fromId": "c847cdd2-3b46-4b35-bb99-6c89b569b67c",
             "fromType": "PERSON",
             "toId": "52b7014c-db6f-4cdf-ac39-1e182508768a",
             "toType": "COMPANY",
@@ -100,6 +100,24 @@
             "description": "Vorstand"
         }
     ],
+    "adjList": {
+        "52b7014c-db6f-4cdf-ac39-1e182508768a": [
+            "cfccf012-63f3-457d-9c7b-c6ad9abed39d",
+            "241655a5-b43a-4e38-b542-7a2f75075532",
+            "c847cdd2-3b46-4b35-bb99-6c89b569b67c",
+            "5ad0fef0-30e2-4664-8a05-50e306ee72bc",
+            "ffd98060-5389-11e9-9d2f-ef163786f65e",
+            "22f85720-53d9-11e9-9d2f-ef163786f65e",
+            "50407880-52ed-11e9-9d2f-ef163786f65e"
+        ],
+        "cfccf012-63f3-457d-9c7b-c6ad9abed39d": [],
+        "241655a5-b43a-4e38-b542-7a2f75075532": [],
+        "c847cdd2-3b46-4b35-bb99-6c89b569b67c": [],
+        "5ad0fef0-30e2-4664-8a05-50e306ee72bc": [],
+        "ffd98060-5389-11e9-9d2f-ef163786f65e": [],
+        "22f85720-53d9-11e9-9d2f-ef163786f65e": [],
+        "50407880-52ed-11e9-9d2f-ef163786f65e": []
+    },
     "nodes": [
         {
             "id": "241655a5-b43a-4e38-b542-7a2f75075532",

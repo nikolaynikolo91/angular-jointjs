@@ -1,105 +1,83 @@
 {
-    "companyId": "2de6e319-64d2-422c-89f0-c80408c7d887",
-    "edges": [
-        {
-            "id": "a9c7299b-7f7b-4699-8ea8-8444e5232b79",
-            "startDate": "2024-05-22",
-            "fromId": "cfccf012-63f3-457d-9c7b-c6ad9abed39d",
-            "fromType": "PERSON",
-            "toId": "52b7014c-db6f-4cdf-ac39-1e182508768a",
-            "toType": "COMPANY",
-            "relationGroups": [
-                "NGO_NPO",
-                "FIRST_LEVEL",
-                "PRIV_COMP"
-            ],
-            "description": "Vorstand"
-        },
-        {
-            "id": "5fe800fe-5503-40cc-8e49-dc6cf2819eeb",
-            "startDate": "2024-03-28",
-            "fromId": "c847cdd2-3b46-4b35-bb99-6c89b569b67c",
-            "fromType": "PERSON",
-            "toId": "52b7014c-db6f-4cdf-ac39-1e182508768a",
-            "toType": "COMPANY",
-            "relationGroups": [
-                "PRIV_COMP",
-                "SECOND_LEVEL"
-            ],
-            "description": "Prokurist/in"
-        },
-        {
-            "id": "e8b944aa-20e7-41be-808e-047d0e19dba2",
-            "startDate": "2024-03-28",
-            "fromId": "241655a5-b43a-4e38-b542-7a2f75075532",
-            "fromType": "PERSON",
-            "toId": "52b7014c-db6f-4cdf-ac39-1e182508768a",
-            "toType": "COMPANY",
-            "relationGroups": [
-                "PRIV_COMP",
-                "SECOND_LEVEL"
-            ],
-            "description": "Prokurist/in"
-        },
-        {
-            "id": "ac0d1f38-22d3-4722-9982-039609980d59",
-            "startDate": "2023-02-27",
-            "fromId": "5ad0fef0-30e2-4664-8a05-50e306ee72bc",
-            "fromType": "PERSON",
-            "toId": "52b7014c-db6f-4cdf-ac39-1e182508768a",
-            "toType": "COMPANY",
-            "relationGroups": [
-                "NGO_NPO",
-                "FIRST_LEVEL",
-                "PRIV_COMP"
-            ],
-            "description": "Vorstand"
-        },
-        {
-            "id": "27c4adfc-f903-4456-8c8e-1f584d05f458",
-            "startDate": "2021-04-30",
-            "endDate": "2023-01-12",
-            "fromId": "ffd98060-5389-11e9-9d2f-ef163786f65e",
-            "fromType": "PERSON",
-            "toId": "52b7014c-db6f-4cdf-ac39-1e182508768a",
-            "toType": "COMPANY",
-            "relationGroups": [
-                "NGO_NPO",
-                "FIRST_LEVEL",
-                "PRIV_COMP"
-            ],
-            "description": "Vorstand"
-        },
-        {
-            "id": "2ffe4b75-563a-4dd3-89fd-05a0c47d00a9",
-            "startDate": "2019-12-18",
-            "fromId": "22f85720-53d9-11e9-9d2f-ef163786f65e",
-            "fromType": "PERSON",
-            "toId": "52b7014c-db6f-4cdf-ac39-1e182508768a",
-            "toType": "COMPANY",
-            "relationGroups": [
-                "NGO_NPO",
-                "FIRST_LEVEL",
-                "PRIV_COMP"
-            ],
-            "description": "Vorstand"
-        },
-        {
-            "id": "f594621d-517b-4c81-8441-50c9f1927245",
-            "startDate": "2023-11-23",
-            "endDate": "2024-03-28",
-            "fromId": "50407880-52ed-11e9-9d2f-ef163786f65e",
-            "fromType": "PERSON",
-            "toId": "52b7014c-db6f-4cdf-ac39-1e182508768a",
-            "toType": "COMPANY",
-            "relationGroups": [
-                "NGO_NPO",
-                "FIRST_LEVEL",
-                "PRIV_COMP"
-            ],
-            "description": "Vorstand"
-        }
-    ],
+    "edges": {
+        "52b7014c-db6f-4cdf-ac39-1e182508768a": [
+            {
+                "id": "cfccf012-63f3-457d-9c7b-c6ad9abed39d",
+                "relationGroups": [
+                    "NGO_NPO",
+                    "FIRST_LEVEL",
+                    "PRIV_COMP"
+                ],
+                "description": "Vorstand",
+                "startDate": "2024-05-22"
+            },
+            {
+                "id": "241655a5-b43a-4e38-b542-7a2f75075532",
+                "relationGroups": [
+                    "PRIV_COMP",
+                    "SECOND_LEVEL"
+                ],
+                "description": "Prokurist/in",
+                "startDate": "2024-03-28"
+            },
+            {
+                "id": "c847cdd2-3b46-4b35-bb99-6c89b569b67c",
+                "relationGroups": [
+                    "PRIV_COMP",
+                    "SECOND_LEVEL"
+                ],
+                "description": "Prokurist/in",
+                "startDate": "2024-03-28"
+            },
+            {
+                "id": "5ad0fef0-30e2-4664-8a05-50e306ee72bc",
+                "relationGroups": [
+                    "NGO_NPO",
+                    "FIRST_LEVEL",
+                    "PRIV_COMP"
+                ],
+                "description": "Vorstand",
+                "startDate": "2023-02-27"
+            },
+            {
+                "id": "ffd98060-5389-11e9-9d2f-ef163786f65e",
+                "relationGroups": [
+                    "NGO_NPO",
+                    "FIRST_LEVEL",
+                    "PRIV_COMP"
+                ],
+                "description": "Vorstand",
+                "startDate": "2021-04-30"
+            },
+            {
+                "id": "22f85720-53d9-11e9-9d2f-ef163786f65e",
+                "relationGroups": [
+                    "NGO_NPO",
+                    "FIRST_LEVEL",
+                    "PRIV_COMP"
+                ],
+                "description": "Vorstand",
+                "startDate": "2019-12-18"
+            },
+            {
+                "id": "50407880-52ed-11e9-9d2f-ef163786f65e",
+                "relationGroups": [
+                    "NGO_NPO",
+                    "FIRST_LEVEL",
+                    "PRIV_COMP"
+                ],
+                "description": "Vorstand",
+                "startDate": "2023-11-23"
+            }
+        ],
+        "cfccf012-63f3-457d-9c7b-c6ad9abed39d": [],
+        "241655a5-b43a-4e38-b542-7a2f75075532": [],
+        "c847cdd2-3b46-4b35-bb99-6c89b569b67c": [],
+        "5ad0fef0-30e2-4664-8a05-50e306ee72bc": [],
+        "ffd98060-5389-11e9-9d2f-ef163786f65e": [],
+        "22f85720-53d9-11e9-9d2f-ef163786f65e": [],
+        "50407880-52ed-11e9-9d2f-ef163786f65e": []
+    },
     "nodes": [
         {
             "id": "241655a5-b43a-4e38-b542-7a2f75075532",
