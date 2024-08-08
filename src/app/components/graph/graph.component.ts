@@ -1,7 +1,4 @@
 import { AfterViewInit, Component, ElementRef, ViewChild } from "@angular/core";
-
-import * as dagre from "dagre";
-
 import { GraphService } from "src/app/services/graph.service";
 import * as joint from "jointjs";
 import { buildGraphFromAdjacencyList, paper } from "./utils";
