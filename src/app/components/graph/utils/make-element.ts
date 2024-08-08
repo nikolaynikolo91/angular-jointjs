@@ -1,6 +1,6 @@
 import * as joint from "jointjs";
 
-export function makeElement(node: any): joint.shapes.basic.Rect {
+export const makeElement = (node: any): joint.shapes.basic.Rect =>{
   // var maxLineLength = _.max(label.split('\n'), function(l) { return l.length; }).length;
 
   // Compute width/height of the rectangle based on the number

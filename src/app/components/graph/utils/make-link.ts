@@ -1,6 +1,6 @@
 import * as joint from "jointjs";
 
-export function makeLink(parentId: any, childId: any): joint.dia.Link {
+export const makeLink = (parentId: any, childId: any): joint.dia.Link => {
   return new joint.dia.Link({
     source: { id: parentId },
     target: { id: childId },
@@ -9,4 +9,4 @@ export function makeLink(parentId: any, childId: any): joint.dia.Link {
     },
     jumpover: true,
   });
-}
+};

@@ -1,11 +1,11 @@
 import { AfterViewInit, Component, ElementRef, ViewChild } from "@angular/core";
 
 import * as dagre from "dagre";
-import * as graphlib from "@dagrejs/graphlib";
-import * as _ from "underscore";
+
 import { GraphService } from "src/app/services/graph.service";
 import * as joint from "jointjs";
 import { buildGraphFromAdjacencyList, paper } from "./utils";
+import { directedGraph } from "./utils/directed-graph";
 
 @Component({
   selector: "app-graph",
@@ -32,14 +32,7 @@ export class GraphComponent implements AfterViewInit {
       const cells = buildGraphFromAdjacencyList(data);
       this.graph.resetCells(cells);
 
-      joint.layout.DirectedGraph.layout(this.graph, {
-        nodeSep: 70,
-        edgeSep: 100,
-        rankDir: "TB",
-        setLinkVertices: false,
-        dagre: dagre,
-        graphlib,
-      });
+      directedGraph(this.graph);
 
       const rootCenter = { x: 500, y: 100 };
       const [source] = this.graph.getSources();
@@ -62,4 +55,6 @@ export class GraphComponent implements AfterViewInit {
   createPaper() {
     this.paper = paper(this.canvas.nativeElement, this.graph)
   }
+
+
 }

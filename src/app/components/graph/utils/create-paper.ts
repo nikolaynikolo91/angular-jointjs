@@ -1,7 +1,7 @@
 import * as joint from "jointjs";
 import { dia } from "jointjs";
 
-export function paper(el: any, graph: any): dia.Paper {
+export const paper = (el: any, graph: any): dia.Paper => {
   return new joint.dia.Paper({
     el: el,
     model: graph,
@@ -14,4 +14,4 @@ export function paper(el: any, graph: any): dia.Paper {
       args: { cornerType: "line", cornerRadius: 10 },
     },
   });
-}
+};

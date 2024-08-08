@@ -2,7 +2,7 @@ import * as _ from "underscore";
 import { makeElement } from "./make-element";
 import { makeLink } from "./make-link";
 
-export function buildGraphFromAdjacencyList(data: any) {
+export const buildGraphFromAdjacencyList = (data: any) => {
   const elements: any = [];
   const links: any = [];
 
@@ -22,4 +22,4 @@ export function buildGraphFromAdjacencyList(data: any) {
   // are added to the graph, link source/target
   // elements must be in the graph already.
   return elements.concat(links);
-}
+};
