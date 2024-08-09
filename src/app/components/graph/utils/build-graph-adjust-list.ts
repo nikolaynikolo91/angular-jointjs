@@ -1,14 +1,20 @@
 import * as _ from "underscore";
 import { makeElement } from "./make-element";
 import { makeLink } from "./make-link";
+import { makeHtmlElement } from "./make-html-element";
 
 export const buildGraphFromAdjacencyList = (data: any) => {
   const elements: any = [];
   const links: any = [];
 
   _.each(data.adjList, (edges, parentElementLabel) => {
-    elements.push(
-      makeElement(
+    // elements.push(
+    //   makeElement(
+    //     data.nodes.find((node: any) => node.id === parentElementLabel)
+    //   )
+    // );
+      elements.push(
+        makeHtmlElement(
         data.nodes.find((node: any) => node.id === parentElementLabel)
       )
     );

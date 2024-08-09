@@ -5,4 +5,4 @@ import { Component } from "@angular/core";
   templateUrl: "./graph-element.component.html",
   styleUrls: ["./graph-element.component.scss"],
 })
-export class GraphElementComponent {}
+export class GraphElementComponent  {}

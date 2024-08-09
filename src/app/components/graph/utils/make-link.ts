@@ -8,5 +8,6 @@ export const makeLink = (parentId: any, childId: any): joint.dia.Link => {
       ".marker-target": { d: "M 10 0 L 0 5 L 10 10 z" },
     },
     jumpover: true,
+    connector: { name: 'straight' },
   });
 };

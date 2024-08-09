@@ -4,6 +4,8 @@ import * as joint from "jointjs";
 import { buildGraphFromAdjacencyList, paper } from "./utils";
 import { directedGraph } from "./utils/directed-graph";
 
+
+
 @Component({
   selector: "app-graph",
   templateUrl: "./graph.component.html",
@@ -28,6 +30,8 @@ export class GraphComponent implements AfterViewInit {
       const cells = buildGraphFromAdjacencyList(data);
       this.graph.resetCells(cells);
 
+//       const test1 = makeHtmlElement();
+// test1.addTo(this.graph)
       directedGraph(this.graph);
 
       const rootCenter = { x: 500, y: 100 };
