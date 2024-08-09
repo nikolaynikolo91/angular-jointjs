@@ -1,6 +1,6 @@
-import * as dagre from "dagre";
+import * as dagre from 'dagre';
+import * as graphlib from '@dagrejs/graphlib';
 import * as joint from "jointjs";
-import * as graphic from "@dagrejs/graphlib";
 
 export const directedGraph = (graph: joint.dia.Graph): void => {
   joint.layout.DirectedGraph.layout(graph, {
@@ -9,6 +9,6 @@ export const directedGraph = (graph: joint.dia.Graph): void => {
     rankDir: "TB",
     setLinkVertices: false,
     dagre,
-    graphic
+    graphlib
   });
 };

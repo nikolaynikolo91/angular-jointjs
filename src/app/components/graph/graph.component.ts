@@ -11,7 +11,6 @@ import { directedGraph } from "./utils/directed-graph";
 })
 export class GraphComponent implements AfterViewInit {
   @ViewChild("canvas") canvas: ElementRef;
-
   graph = new joint.dia.Graph();
   paper: joint.dia.Paper;
   nodes: Record<string, joint.dia.Element> = {};
@@ -50,8 +49,6 @@ export class GraphComponent implements AfterViewInit {
   }
 
   createPaper() {
-    this.paper = paper(this.canvas.nativeElement, this.graph)
+    this.paper = paper(this.canvas.nativeElement, this.graph);
   }
-
-
 }
