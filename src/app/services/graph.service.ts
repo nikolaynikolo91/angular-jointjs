@@ -6,7 +6,8 @@ import { Observable, map } from 'rxjs';
   providedIn: 'root'
 })
 export class GraphService {
-  private dataUrl = 'assets/test.json';
+  private dataUrl = 'assets/big-company-graph.json';
+  // private dataUrl = 'assets/test.json';
   private dataUrl2 = 'assets/test2.json';
 
   constructor(private http: HttpClient) { }

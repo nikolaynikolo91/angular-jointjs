@@ -30,10 +30,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "./node_modules/jointjs/css/layout.css"
-            ],
-            "scripts": ["./node_modules/jointjs/dist/joint.min.js"]
+              "src/styles.scss"
+            ]
           },
           "configurations": {
             "production": {
@@ -95,8 +93,7 @@
             ],
             "styles": [
               "src/styles.scss"
-            ],
-            "scripts": ["./node_modules/jointjs/dist/joint.min.js"]
+            ]
           }
         }
       }

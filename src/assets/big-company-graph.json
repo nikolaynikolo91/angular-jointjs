@@ -1,0 +1,2419 @@
+{
+    "companyId": "f00ca722-2ba3-4a04-8901-3ade5e6b9dd0",
+    "edges": [
+        {
+            "id": "a32c162f-0f61-4d41-95ce-bd9735ab0bd3",
+            "startDate": "2015-03-11",
+            "fromId": "4018eff0-529d-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "aef1eaba-10c4-4638-a0a9-042fe3c89586",
+            "startDate": "2015-03-11",
+            "fromId": "b8f328a0-5360-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "2e951b8b-fa7a-43ba-a49d-dd8453fa3987",
+            "endDate": "2009-12-09",
+            "fromId": "bb47e8c1-5289-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "1590a3ae-3d61-4367-82bc-6905c453da98",
+            "startDate": "2022-04-09",
+            "fromId": "0bb38a60-5322-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "NGO_NPO",
+                "FIRST_LEVEL",
+                "PRIV_COMP"
+            ],
+            "description": "Vorstand"
+        },
+        {
+            "id": "6dafd6c0-d27f-4768-a548-c36fffd0fb88",
+            "startDate": "2010-01-13",
+            "endDate": "2022-04-09",
+            "fromId": "63ce1fa0-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "NGO_NPO",
+                "FIRST_LEVEL",
+                "PRIV_COMP"
+            ],
+            "description": "Vorstand"
+        },
+        {
+            "id": "e70400c3-4adc-4201-9fcf-74f059534a5a",
+            "startDate": "2010-01-13",
+            "endDate": "2021-09-20",
+            "fromId": "edbbdc50-52b9-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "NGO_NPO",
+                "FIRST_LEVEL",
+                "PRIV_COMP"
+            ],
+            "description": "Vorstand"
+        },
+        {
+            "id": "19b85d94-ba29-44db-904f-efe0b84b20ca",
+            "startDate": "2019-02-14",
+            "fromId": "3c5781a0-538e-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "7101c733-2a00-4bf1-93de-b5986f8e7bc9",
+            "startDate": "2019-10-10",
+            "fromId": "d9c42d90-83c5-11ea-9f32-6b9a852a36df",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "3ea7c535-c51a-42b6-8c2a-422690b0c978",
+            "startDate": "2017-01-06",
+            "fromId": "51a80550-52cd-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "7452d841-1ce3-41dd-bfcf-bd1cf43c63ab",
+            "startDate": "2017-01-06",
+            "fromId": "8c08a400-5301-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "fdab9e4a-aa94-4638-b955-07b17ab61093",
+            "startDate": "2017-03-17",
+            "fromId": "f5423fa0-527d-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "NGO_NPO",
+                "FIRST_LEVEL",
+                "PRIV_COMP"
+            ],
+            "description": "Vorstand"
+        },
+        {
+            "id": "90e8ec26-2382-4fa6-be79-0eebc82f60af",
+            "startDate": "2012-12-31",
+            "fromId": "f8201f80-8865-11e9-b904-85836311bf5a",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "AUDITOR"
+            ]
+        },
+        {
+            "id": "15c5bbbf-9874-41a6-bf4f-2e6e5a6110cc",
+            "startDate": "2012-12-31",
+            "fromId": "0d3b69b0-8866-11e9-b904-85836311bf5a",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "AUDITOR"
+            ]
+        },
+        {
+            "id": "7ba508bc-af8c-4ce1-a8f5-66c292b24b88",
+            "startDate": "2018-12-31",
+            "fromId": "ff3b94c0-8865-11e9-b904-85836311bf5a",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "AUDITOR"
+            ]
+        },
+        {
+            "id": "c9d268bb-0903-4c1d-aef8-06d5f32a50fc",
+            "startDate": "2020-12-31",
+            "fromId": "1a579560-8866-11e9-b904-85836311bf5a",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "AUDITOR"
+            ]
+        },
+        {
+            "id": "e541fcbe-88ee-46db-857d-bd5c1f028327",
+            "startDate": "2023-05-12",
+            "fromId": "7ea4df60-53ae-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "2da442d7-3cc9-46fa-acbb-c88a40c89cce",
+            "startDate": "2023-05-12",
+            "fromId": "d1b98dd0-52ce-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "106034ab-9758-41ce-a419-205aa3c2bac6",
+            "startDate": "2023-05-12",
+            "fromId": "639a8570-53c3-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "0d5b2fb4-67c3-4e0e-9178-7525c6242f6e",
+            "startDate": "2009-05-13",
+            "endDate": "2013-12-27",
+            "fromId": "c49e5e70-52cc-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "77c2f175-933f-4973-804b-3fa37ab2fdaf",
+            "startDate": "2022-12-31",
+            "fromId": "0ad4b9c1-533b-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "AUDITOR"
+            ]
+        },
+        {
+            "id": "339ea729-d5fa-491a-a181-84d8e0e17e04",
+            "startDate": "2008-11-19",
+            "endDate": "2013-12-27",
+            "fromId": "a17f8f70-52c4-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "f1fbe97f-e582-45a2-a036-9b5fa937681f",
+            "startDate": "2008-11-19",
+            "endDate": "2016-04-09",
+            "fromId": "df812b00-52ea-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "7961a630-b943-435f-8923-149dc3d8c673",
+            "startDate": "2019-02-14",
+            "endDate": "2023-02-23",
+            "fromId": "132be4b0-537a-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "cc7202c8-c94e-4b89-be14-090d83792455",
+            "startDate": "2018-01-26",
+            "endDate": "2022-10-19",
+            "fromId": "4f6514d0-52ba-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "4b2fa9e7-f0e8-4475-b35f-62a7d1d146be",
+            "startDate": "2017-08-17",
+            "endDate": "2019-10-10",
+            "fromId": "b74ccba0-5360-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "0d5b2fb4-67c3-4e0e-9178-7525c6242f6e",
+            "startDate": "2009-05-13",
+            "endDate": "2013-12-27",
+            "fromId": "c49e5e70-52cc-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "c02f427f-347b-429c-9e60-89afd595b937",
+            "startDate": "2014-04-17",
+            "endDate": "2023-02-09",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "2a30f5c1-5333-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "fe111139-040c-4a53-a83b-75ac1d10770e",
+            "startDate": "2019-11-20",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "f4d728d0-7d5e-11e9-a0fd-65bac194e9fb",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "f86629b4-c6e2-44f5-a57b-bbe77a7a9062",
+            "startDate": "2019-11-20",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "8c4eb630-7d5d-11e9-a0fd-65bac194e9fb",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "03756659-9c57-4331-8068-74a166c1855e",
+            "startDate": "2017-11-28",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "1391b980-53c9-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "9888119b-c590-4549-9b7c-0e1190547c5b",
+            "startDate": "2013-12-27",
+            "endDate": "2017-02-01",
+            "fromId": "117b0660-5338-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "4c3d32c7-d9f0-420e-bc27-57ec1262126c",
+            "startDate": "2013-12-27",
+            "endDate": "2017-03-17",
+            "fromId": "f5423fa0-527d-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "61b21dab-f829-4317-bd33-e27ed973d31d",
+            "startDate": "2017-01-06",
+            "endDate": "2024-02-21",
+            "fromId": "fa9da460-5338-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "f5f01f01-96c7-4653-ba55-dacce4fd9130",
+            "startDate": "2009-09-16",
+            "endDate": "2013-12-27",
+            "fromId": "7b26b730-52d4-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "000a2939-8bda-4fba-acb9-700a07c40962",
+            "startDate": "2009-09-16",
+            "endDate": "2010-01-13",
+            "fromId": "edbbdc50-52b9-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "a4d7393f-eed2-4df5-8a01-b626b9c29f52",
+            "startDate": "2016-02-25",
+            "endDate": "2018-09-19",
+            "fromId": "87785e90-52e2-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "NGO_NPO",
+                "FIRST_LEVEL",
+                "PRIV_COMP"
+            ],
+            "description": "Vorstand"
+        },
+        {
+            "id": "710e672c-a000-4bd0-8b8f-4ba529280736",
+            "startDate": "2007-08-01",
+            "endDate": "2010-01-13",
+            "fromId": "63ce1fa0-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "a478cd42-1077-437d-867a-fb6191ab6d38",
+            "startDate": "2007-08-01",
+            "endDate": "2016-09-29",
+            "fromId": "1c41d6d0-527c-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "NGO_NPO",
+                "FIRST_LEVEL",
+                "PRIV_COMP"
+            ],
+            "description": "Vorstand"
+        },
+        {
+            "id": "9c3d7a4d-5051-428c-8912-1d4ecca04c54",
+            "startDate": "2007-08-01",
+            "endDate": "2015-02-10",
+            "fromId": "d7587670-5224-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "NGO_NPO",
+                "FIRST_LEVEL",
+                "PRIV_COMP"
+            ],
+            "description": "Vorstand"
+        },
+        {
+            "id": "b64bbd2d-fd01-49e3-b539-badf8ca8fefa",
+            "startDate": "2015-03-11",
+            "endDate": "2017-02-01",
+            "fromId": "b74ccba0-5360-11e9-9d2f-ef163786f65e",
+            "fromType": "PERSON",
+            "toId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "PRIV_COMP",
+                "SECOND_LEVEL"
+            ],
+            "description": "Prokurist/in"
+        },
+        {
+            "id": "2cef4597-e701-4544-a8a5-2fa2a5c49658",
+            "startDate": "2019-10-23",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "a2496a01-6ad5-11ea-817a-0dcb77889373",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "description": "Muttergesellschaft",
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "772265b6-9cad-4838-8831-d56fa6762c5c",
+            "startDate": "2019-09-18",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "ea11f1d0-decc-11e9-9559-17991918cf54",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "415b106f-3e93-4ba7-bef0-aa9058824e95",
+            "startDate": "2016-10-19",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "06019950-53a8-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "09b8f7ae-7ad5-4558-b32e-3d5e337a6c0e",
+            "startDate": "2016-09-29",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "971003c0-53a1-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "5ee209a7-d34f-49ff-8cfc-6d5ebb0860fb",
+            "startDate": "2020-08-06",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "29f01a36-c27d-45bd-b412-b00133b03eab",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "e7a392d4-723e-4a3a-a11c-b76ae8f32893",
+            "startDate": "2016-10-28",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "0fbd5bf0-53a8-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "ec4df8cc-5bcd-40e1-bf90-02fbd386084e",
+            "startDate": "2019-03-20",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "84ff4330-7d5e-11e9-a0fd-65bac194e9fb",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "dc45e4c9-2960-4947-afc9-54300ec0b9c8",
+            "startDate": "2018-09-26",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "327cfa80-53dd-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "7d85c8d5-1a01-48fb-a4d0-b8fb2083e852",
+            "startDate": "2019-07-16",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "28e5f850-7908-11e9-a0fd-65bac194e9fb",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "f7775302-1c45-4679-8bdd-c5cd9daaa67a",
+            "startDate": "2018-05-25",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "59eaa480-53d5-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "26a67362-7c05-46e4-96ab-5a61bdb75f33",
+            "startDate": "2019-09-20",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "b7e65200-d5c1-11e9-a1b3-03c852416524",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 51.0
+        },
+        {
+            "id": "4ddb3c47-21b9-453b-84ce-0d7d93ed4f04",
+            "startDate": "2016-03-03",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "2792d3d0-534a-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "160774cf-23a0-47c6-a523-88ff4863c922",
+            "startDate": "2017-11-30",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "ab963990-5293-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "819d41f7-e46b-4abb-916b-c2515faa2851",
+            "startDate": "2017-06-09",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "cf537060-5328-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 60.0
+        },
+        {
+            "id": "85315b2f-1ab1-4159-a008-2e860ee2e71b",
+            "startDate": "2021-12-10",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "fc4e3051-f86b-4a00-a54f-2a2b2c6da417",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "8dc388c5-991b-4ccc-a7e0-fa8f2b33dee1",
+            "startDate": "2017-11-14",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "d8056030-5290-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "5462c06d-df3a-4742-9656-20acbd56a96b",
+            "startDate": "2021-04-07",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "49cc5dd2-eaaf-498b-a637-ec583dc0f319",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "description": "Muttergesellschaft",
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "57883ae8-7d08-4036-8b71-77120547e95c",
+            "startDate": "2019-01-17",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "80244b40-53e1-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "3e4502c4-6bbf-4729-b3e3-5963a5c0fc48",
+            "startDate": "2019-09-19",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "e87bf390-cee9-11e9-9cdd-bdce6e692bb9",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "219b320e-8304-425f-b40a-45a3e5b1d543",
+            "startDate": "2017-11-17",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "8fb13231-53c8-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "5007fc4b-efda-4b67-84fb-97ddd562d10e",
+            "startDate": "2018-03-16",
+            "endDate": "2019-05-27",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "d60ce7c0-52e1-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "f66e7df4-9406-49da-8c5b-b094663b2ee9",
+            "startDate": "2015-11-17",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "a07ef0e0-52db-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "2b6857af-25ec-421d-a0f1-7780d577e1a2",
+            "startDate": "2016-03-04",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "d47b6de0-5387-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "9548bb09-5c6a-45fb-a5c1-b55fa77e1e7f",
+            "startDate": "2018-11-09",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "59d4b1e0-53dd-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "f34499c0-94f5-4174-9e8c-a51080c0e900",
+            "startDate": "2015-07-29",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "fa4a7db0-536c-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "e861dd73-6b5e-41c3-b7a1-463c52c288bf",
+            "startDate": "2015-08-21",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "5e6615c0-536d-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "70c6a1c8-d907-4021-853b-68d584f4c910",
+            "startDate": "2012-12-13",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "1ae00730-531c-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "1ceccf65-7e0f-414d-9492-92d362606073",
+            "startDate": "2015-10-02",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "286ce380-5373-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "856dea82-6c68-4aa1-9462-a3763c814ab3",
+            "startDate": "2014-05-22",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "6ccae780-5340-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "86bcae43-d2a2-4d81-85d4-3ae3a0aeaa3f",
+            "startDate": "2013-11-06",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "2f4688e0-5333-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "96f31141-3d01-41d7-8fa8-1d52445ff464",
+            "startDate": "2013-11-06",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "564ccf70-5334-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "a9001723-3ffa-4395-a027-0652abb7e489",
+            "startDate": "2013-11-06",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "10d1e760-5333-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "03600deb-630b-4dd2-84c6-d708a17972b4",
+            "startDate": "2013-11-06",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "0fc31a00-5334-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "594d5c18-41b6-467e-ac30-53fc4830d6e3",
+            "startDate": "2012-06-27",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "2a534ca0-52f8-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "63275395-b4f4-4a0e-8eb4-a0ff300cd374",
+            "startDate": "2012-12-17",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "3a0e34b0-531c-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "950c2be7-95a7-4bd9-adf0-c5227d5b28ae",
+            "startDate": "2013-05-16",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "db7891e0-5328-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "ba6c5d8e-8dbb-48b7-a6e0-75953690df22",
+            "startDate": "2010-06-30",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "19932ff0-52dc-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "85a62af6-921f-4f14-a65e-29cba3299942",
+            "startDate": "2020-12-24",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "86d4b3a3-0de4-4aae-bf03-3822b014b04f",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "description": "Muttergesellschaft",
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "2638e21a-a1bd-4b55-a1bd-8e46cfda1904",
+            "startDate": "2013-06-04",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "f7cf6700-5329-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "ec703043-7c0a-44c8-8c44-84fb23ac579f",
+            "startDate": "2013-04-25",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "e59811a0-5323-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "1dde58c0-7694-4910-910c-2579788397d6",
+            "startDate": "2013-06-04",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "38ea81f0-532c-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "3a8ca0dd-141b-4c1b-b349-0f0450a450c1",
+            "startDate": "2013-06-04",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "04d105d0-532a-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "80bee26e-6cd1-404e-bb61-f96fbb8dfb77",
+            "startDate": "2012-03-19",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "ce5535e0-530a-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "29676042-14fd-4632-b1dc-ef894c7cd508",
+            "startDate": "2018-06-10",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "69d92a10-53d5-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "96a3c8e2-2ad4-4405-81d5-157cdc69f068",
+            "startDate": "2011-11-02",
+            "endDate": "2019-03-13",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "d876b5a0-52fe-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        },
+        {
+            "id": "0baaaa59-f0dd-4a38-8739-da11918292ea",
+            "startDate": "2011-10-12",
+            "endDate": "2019-12-06",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "17ba0020-52fd-11e9-9d2f-ef163786f65e",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 34.013
+        },
+        {
+            "id": "b10ed38c-66b6-4dca-b880-eb6befb17b0a",
+            "startDate": "2022-07-09",
+            "fromId": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "fromType": "COMPANY",
+            "toId": "5372fae8-1286-4733-8c19-8f57db396f01",
+            "toType": "COMPANY",
+            "relationGroups": [
+                "LTD_OWNER"
+            ],
+            "sharesPercent": 100.0
+        }
+    ],
+    "nodes": [
+        {
+            "id": "3c5781a0-538e-11e9-9d2f-ef163786f65e",
+            "firstName": "Axel",
+            "lastName": "Bertram",
+            "city": "Poing",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1972-10-04",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 53,
+            "type": "PERSON"
+        },
+        {
+            "id": "0bb38a60-5322-11e9-9d2f-ef163786f65e",
+            "firstName": "Andreas",
+            "lastName": "Wesner",
+            "city": "Pöcking",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1974-11-21",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 106,
+            "type": "PERSON"
+        },
+        {
+            "id": "639a8570-53c3-11e9-9d2f-ef163786f65e",
+            "firstName": "Christian",
+            "lastName": "Unterpaintner",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1972-01-13",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 32,
+            "type": "PERSON"
+        },
+        {
+            "id": "0d3b69b0-8866-11e9-b904-85836311bf5a",
+            "firstName": "Jürgen",
+            "lastName": "Breisch",
+            "city": "Leinfelden/Echterdingen",
+            "countryCode": "AT",
+            "deceased": false,
+            "dateOfBirth": "1960-06-22",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 107,
+            "type": "PERSON"
+        },
+        {
+            "id": "d9c42d90-83c5-11ea-9f32-6b9a852a36df",
+            "firstName": "Bernhard",
+            "lastName": "Brielmaier",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1985-06-12",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 222,
+            "type": "PERSON"
+        },
+        {
+            "id": "51a80550-52cd-11e9-9d2f-ef163786f65e",
+            "firstName": "Nicolas",
+            "lastName": "Ingrisch",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1979-12-04",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 77,
+            "type": "PERSON"
+        },
+        {
+            "id": "b8f328a0-5360-11e9-9d2f-ef163786f65e",
+            "firstName": "Jessica",
+            "lastName": "Eweka-Stöckl",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1982-01-30",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 56,
+            "type": "PERSON"
+        },
+        {
+            "id": "f8201f80-8865-11e9-b904-85836311bf5a",
+            "firstName": "Arndt",
+            "lastName": "Herdzina",
+            "city": "Filderstadt",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1969-05-20",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 89,
+            "type": "PERSON"
+        },
+        {
+            "id": "8c08a400-5301-11e9-9d2f-ef163786f65e",
+            "firstName": "Olena",
+            "lastName": "Posiko",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1978-08-27",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 181,
+            "type": "PERSON"
+        },
+        {
+            "id": "0ad4b9c1-533b-11e9-9d2f-ef163786f65e",
+            "firstName": "Daniel",
+            "lastName": "Griesbeck",
+            "city": "Gröbenzell",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1984-06-01",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 259,
+            "type": "PERSON"
+        },
+        {
+            "id": "f5423fa0-527d-11e9-9d2f-ef163786f65e",
+            "firstName": "Bernd",
+            "lastName": "Thalmeier",
+            "city": "Rosenheim",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1967-11-17",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 64,
+            "type": "PERSON"
+        },
+        {
+            "id": "bb47e8c1-5289-11e9-9d2f-ef163786f65e",
+            "firstName": "William Hermann",
+            "lastName": "Ertz",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1971-12-21",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 110,
+            "type": "PERSON"
+        },
+        {
+            "id": "63ce1fa0-52b2-11e9-9d2f-ef163786f65e",
+            "firstName": "Jürgen",
+            "lastName": "Werner",
+            "city": "Augsburg",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1964-06-13",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 64,
+            "type": "PERSON"
+        },
+        {
+            "id": "7ea4df60-53ae-11e9-9d2f-ef163786f65e",
+            "firstName": "Wolfgang",
+            "lastName": "Oelke",
+            "city": "Poing",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1982-11-24",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 83,
+            "type": "PERSON"
+        },
+        {
+            "id": "c49e5e70-52cc-11e9-9d2f-ef163786f65e",
+            "firstName": "Axel",
+            "lastName": "Wünnenberg",
+            "city": "Königstein im Taunus",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1969-12-01",
+            "wealthIndex": "J",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 205,
+            "type": "PERSON"
+        },
+        {
+            "id": "d1b98dd0-52ce-11e9-9d2f-ef163786f65e",
+            "firstName": "Carsten",
+            "lastName": "Stork",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1970-04-07",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 261,
+            "type": "PERSON"
+        },
+        {
+            "id": "4018eff0-529d-11e9-9d2f-ef163786f65e",
+            "firstName": "Nicolas",
+            "lastName": "Hartel",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1979-11-09",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 130,
+            "type": "PERSON"
+        },
+        {
+            "id": "ff3b94c0-8865-11e9-b904-85836311bf5a",
+            "firstName": "Sven",
+            "lastName": "Hauke",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1971-03-04",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 193,
+            "type": "PERSON"
+        },
+        {
+            "id": "1a579560-8866-11e9-b904-85836311bf5a",
+            "firstName": "Simon",
+            "lastName": "Boßhammer",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1981-11-05",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 133,
+            "type": "PERSON"
+        },
+        {
+            "id": "edbbdc50-52b9-11e9-9d2f-ef163786f65e",
+            "firstName": "Henrik",
+            "lastName": "Fillibeck",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1970-10-15",
+            "wealthIndex": "J",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 129,
+            "type": "PERSON"
+        },
+        {
+            "id": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 87,
+            "type": "COMPANY",
+            "name": "Catella Real Estate AG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 169051",
+            "insolvent": false
+        },
+        {
+            "id": "df812b00-52ea-11e9-9d2f-ef163786f65e",
+            "firstName": "Johanna",
+            "lastName": "Steiner",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1979-05-14",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 25,
+            "type": "PERSON"
+        },
+        {
+            "id": "fa9da460-5338-11e9-9d2f-ef163786f65e",
+            "firstName": "Stefan",
+            "lastName": "Balzer",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1979-10-30",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 54,
+            "type": "PERSON"
+        },
+        {
+            "id": "a17f8f70-52c4-11e9-9d2f-ef163786f65e",
+            "firstName": "Michiko",
+            "lastName": "Schöller",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1964-10-17",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 79,
+            "type": "PERSON"
+        },
+        {
+            "id": "7b26b730-52d4-11e9-9d2f-ef163786f65e",
+            "firstName": "Andrea",
+            "lastName": "Lindlmaier",
+            "city": "Augsburg",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1968-04-14",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 39,
+            "type": "PERSON"
+        },
+        {
+            "id": "4f6514d0-52ba-11e9-9d2f-ef163786f65e",
+            "firstName": "Jan",
+            "lastName": "Essers",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1974-11-21",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 81,
+            "type": "PERSON"
+        },
+        {
+            "id": "117b0660-5338-11e9-9d2f-ef163786f65e",
+            "firstName": "Florian",
+            "lastName": "van der Leeden",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1975-08-22",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 37,
+            "type": "PERSON"
+        },
+        {
+            "id": "d7587670-5224-11e9-9d2f-ef163786f65e",
+            "firstName": "Andreas",
+            "lastName": "Kneip",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1953-01-31",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 42,
+            "type": "PERSON"
+        },
+        {
+            "id": "1c41d6d0-527c-11e9-9d2f-ef163786f65e",
+            "firstName": "Bernhard Norbert",
+            "lastName": "Fachtner",
+            "city": "Lochham",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1959-03-07",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 29,
+            "type": "PERSON"
+        },
+        {
+            "id": "87785e90-52e2-11e9-9d2f-ef163786f65e",
+            "firstName": "Xavier Christian Jean-Marie",
+            "lastName": "Jongen",
+            "city": "Maastricht",
+            "countryCode": "NL",
+            "deceased": false,
+            "dateOfBirth": "1970-08-21",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 65,
+            "type": "PERSON"
+        },
+        {
+            "id": "f5423fa0-527d-11e9-9d2f-ef163786f65e",
+            "firstName": "Bernd",
+            "lastName": "Thalmeier",
+            "city": "Rosenheim",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1967-11-17",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 64,
+            "type": "PERSON"
+        },
+        {
+            "id": "63ce1fa0-52b2-11e9-9d2f-ef163786f65e",
+            "firstName": "Jürgen",
+            "lastName": "Werner",
+            "city": "Augsburg",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1964-06-13",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 64,
+            "type": "PERSON"
+        },
+        {
+            "id": "b74ccba0-5360-11e9-9d2f-ef163786f65e",
+            "firstName": "Alexandra",
+            "lastName": "Boos",
+            "city": "Starnberg",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1976-03-10",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 49,
+            "type": "PERSON"
+        },
+        {
+            "id": "c49e5e70-52cc-11e9-9d2f-ef163786f65e",
+            "firstName": "Axel",
+            "lastName": "Wünnenberg",
+            "city": "Königstein im Taunus",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1969-12-01",
+            "wealthIndex": "J",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 205,
+            "type": "PERSON"
+        },
+        {
+            "id": "132be4b0-537a-11e9-9d2f-ef163786f65e",
+            "firstName": "Thomas",
+            "lastName": "Kübler",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1980-03-27",
+            "wealthIndex": "K",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 98,
+            "type": "PERSON"
+        },
+        {
+            "id": "edbbdc50-52b9-11e9-9d2f-ef163786f65e",
+            "firstName": "Henrik",
+            "lastName": "Fillibeck",
+            "city": "München",
+            "countryCode": "DE",
+            "deceased": false,
+            "dateOfBirth": "1970-10-15",
+            "wealthIndex": "J",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 129,
+            "type": "PERSON"
+        },
+        {
+            "id": "f4d728d0-7d5e-11e9-a0fd-65bac194e9fb",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "CDR II Properties 1 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 55963 B",
+            "insolvent": false
+        },
+        {
+            "id": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 87,
+            "type": "COMPANY",
+            "name": "Catella Real Estate AG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 169051",
+            "insolvent": false
+        },
+        {
+            "id": "2a30f5c1-5333-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 12 GmbH & Co. KG",
+            "status": "INACTIVE",
+            "officialRegistrationNumber": "HRA 48753",
+            "insolvent": false
+        },
+        {
+            "id": "8c4eb630-7d5d-11e9-a0fd-65bac194e9fb",
+            "city": "Holzkirchen",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "Panta Rhei Properties 3 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 110524",
+            "insolvent": false
+        },
+        {
+            "id": "1391b980-53c9-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "CPE Den Haag 01 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 107995",
+            "insolvent": false
+        },
+        {
+            "id": "49cc5dd2-eaaf-498b-a637-ec583dc0f319",
+            "city": "Wien",
+            "countryCode": "AT",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 11,
+            "type": "COMPANY",
+            "name": "CWE Austria 01 TopCo GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "FN 549852 g",
+            "insolvent": false
+        },
+        {
+            "id": "59eaa480-53d5-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 9,
+            "type": "COMPANY",
+            "name": "Catella PV Niederaichbach GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 237157",
+            "insolvent": false
+        },
+        {
+            "id": "971003c0-53a1-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 16,
+            "type": "COMPANY",
+            "name": "CWE Beteiligungs GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 200886 B",
+            "insolvent": false
+        },
+        {
+            "id": "80244b40-53e1-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 5,
+            "type": "COMPANY",
+            "name": "CERF Deutschland 01 GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 202795 B",
+            "insolvent": false
+        },
+        {
+            "id": "fc4e3051-f86b-4a00-a54f-2a2b2c6da417",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 7,
+            "type": "COMPANY",
+            "name": "CLD Plus Beteiligungs GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 270463",
+            "insolvent": false
+        },
+        {
+            "id": "84ff4330-7d5e-11e9-a0fd-65bac194e9fb",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 8,
+            "type": "COMPANY",
+            "name": "CDR II Verwaltungs GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 205804",
+            "insolvent": false
+        },
+        {
+            "id": "327cfa80-53dd-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 7,
+            "type": "COMPANY",
+            "name": "CMW Beteiligungs GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 200038 B",
+            "insolvent": false
+        },
+        {
+            "id": "a2496a01-6ad5-11ea-817a-0dcb77889373",
+            "city": "Wien",
+            "countryCode": "AT",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 13,
+            "type": "COMPANY",
+            "name": "CERF Austria 01 TopCo GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "FN 520966 b",
+            "insolvent": false
+        },
+        {
+            "id": "0fbd5bf0-53a8-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 10,
+            "type": "COMPANY",
+            "name": "Catella CWE 01 Deutschland GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 200661 B",
+            "insolvent": false
+        },
+        {
+            "id": "b7e65200-d5c1-11e9-a1b3-03c852416524",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 3,
+            "type": "COMPANY",
+            "name": "KCD Fürther Straße GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 111259",
+            "insolvent": false
+        },
+        {
+            "id": "ab963990-5293-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 4,
+            "type": "COMPANY",
+            "name": "BERF II GmbH & Co KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 45227",
+            "insolvent": false
+        },
+        {
+            "id": "d8056030-5290-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 4,
+            "type": "COMPANY",
+            "name": "BERF III GmbH & Co KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 45228",
+            "insolvent": false
+        },
+        {
+            "id": "cf537060-5328-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 5,
+            "type": "COMPANY",
+            "name": "IWS - Spitalgasse 5 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 100666",
+            "insolvent": false
+        },
+        {
+            "id": "29f01a36-c27d-45bd-b412-b00133b03eab",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "CMW 02 Niederlande GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 57508 B",
+            "insolvent": false
+        },
+        {
+            "id": "e87bf390-cee9-11e9-9cdd-bdce6e692bb9",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "CWE 03 Niederlande GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 56398 B",
+            "insolvent": false
+        },
+        {
+            "id": "8fb13231-53c8-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 12,
+            "type": "COMPANY",
+            "name": "CPE Beteiligungs GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 237021",
+            "insolvent": false
+        },
+        {
+            "id": "ea11f1d0-decc-11e9-9559-17991918cf54",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "CWE 02 Niederlande GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 56281 B",
+            "insolvent": false
+        },
+        {
+            "id": "2792d3d0-534a-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 13 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 49758",
+            "insolvent": false
+        },
+        {
+            "id": "28e5f850-7908-11e9-a0fd-65bac194e9fb",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 11,
+            "type": "COMPANY",
+            "name": "KCD Beteiligungs GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 248922",
+            "insolvent": false
+        },
+        {
+            "id": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 87,
+            "type": "COMPANY",
+            "name": "Catella Real Estate AG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 169051",
+            "insolvent": false
+        },
+        {
+            "id": "06019950-53a8-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "CWE 01 Niederlande GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 55379 B",
+            "insolvent": false
+        },
+        {
+            "id": "286ce380-5373-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 15 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 51386 B",
+            "insolvent": false
+        },
+        {
+            "id": "0fc31a00-5334-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 11 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 48755",
+            "insolvent": false
+        },
+        {
+            "id": "2a534ca0-52f8-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 16,
+            "type": "COMPANY",
+            "name": "SSP Beteiligungs GmbH, Nr. 1",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 200236",
+            "insolvent": false
+        },
+        {
+            "id": "59d4b1e0-53dd-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "CMW 01 Niederlande GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 55387 B",
+            "insolvent": false
+        },
+        {
+            "id": "d60ce7c0-52e1-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 18,
+            "type": "COMPANY",
+            "name": "FGF Beteiligungsgesellschaft mbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 186628",
+            "insolvent": false
+        },
+        {
+            "id": "f7cf6700-5329-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 07 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 48206",
+            "insolvent": false
+        },
+        {
+            "id": "19932ff0-52dc-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 1 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 44985",
+            "insolvent": false
+        },
+        {
+            "id": "db7891e0-5328-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "Schwabinger Carré GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 100715",
+            "insolvent": false
+        },
+        {
+            "id": "3a0e34b0-531c-11e9-9d2f-ef163786f65e",
+            "city": "Holzkirchen",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "SSP - Dutch Properties 1 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 100019",
+            "insolvent": false
+        },
+        {
+            "id": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 87,
+            "type": "COMPANY",
+            "name": "Catella Real Estate AG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 169051",
+            "insolvent": false
+        },
+        {
+            "id": "fa4a7db0-536c-11e9-9d2f-ef163786f65e",
+            "city": "Holzkirchen",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 13,
+            "type": "COMPANY",
+            "name": "PDR Verwaltungs GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 220064",
+            "insolvent": false
+        },
+        {
+            "id": "e59811a0-5323-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 10,
+            "type": "COMPANY",
+            "name": "IWS Beteiligungs GmbH, Nr. 1",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 204441",
+            "insolvent": false
+        },
+        {
+            "id": "5e6615c0-536d-11e9-9d2f-ef163786f65e",
+            "city": "Holzkirchen",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "Panta Rhei Properties 1 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 104202",
+            "insolvent": false
+        },
+        {
+            "id": "1ae00730-531c-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 10,
+            "type": "COMPANY",
+            "name": "SSP Beteiligungs GmbH, Nr. 2",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 202509",
+            "insolvent": false
+        },
+        {
+            "id": "d47b6de0-5387-11e9-9d2f-ef163786f65e",
+            "city": "Holzkirchen",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "Panta Rhei Properties 2 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 105085",
+            "insolvent": false
+        },
+        {
+            "id": "2f4688e0-5333-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 09 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 48747",
+            "insolvent": false
+        },
+        {
+            "id": "564ccf70-5334-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 08 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 48757",
+            "insolvent": false
+        },
+        {
+            "id": "a07ef0e0-52db-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 34,
+            "type": "COMPANY",
+            "name": "BERF Verwaltungs GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 132800",
+            "insolvent": false
+        },
+        {
+            "id": "86d4b3a3-0de4-4aae-bf03-3822b014b04f",
+            "city": "Wien",
+            "countryCode": "AT",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 11,
+            "type": "COMPANY",
+            "name": "CMW Austria 01 TopCo GmbH",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "FN 540021 z",
+            "insolvent": false
+        },
+        {
+            "id": "6ccae780-5340-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 14 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 49402",
+            "insolvent": false
+        },
+        {
+            "id": "10d1e760-5333-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 10 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 48743",
+            "insolvent": false
+        },
+        {
+            "id": "5372fae8-1286-4733-8c19-8f57db396f01",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "Catella Nürnberg III GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 116434",
+            "insolvent": false
+        },
+        {
+            "id": "ce5535e0-530a-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 04 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 46526",
+            "insolvent": false
+        },
+        {
+            "id": "636b6630-52b2-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 87,
+            "type": "COMPANY",
+            "name": "Catella Real Estate AG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRB 169051",
+            "insolvent": false
+        },
+        {
+            "id": "04d105d0-532a-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 05 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 48212",
+            "insolvent": false
+        },
+        {
+            "id": "17ba0020-52fd-11e9-9d2f-ef163786f65e",
+            "city": "Offenbach am Main",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 9,
+            "type": "COMPANY",
+            "name": "Catella Doric Grundbesitz GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 41634",
+            "insolvent": false
+        },
+        {
+            "id": "69d92a10-53d5-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "SSP - Dutch Properties 2 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 109049",
+            "insolvent": false
+        },
+        {
+            "id": "38ea81f0-532c-11e9-9d2f-ef163786f65e",
+            "city": "Berlin",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 2,
+            "type": "COMPANY",
+            "name": "BERF 06 GmbH & Co. KG",
+            "status": "ACTIVE",
+            "officialRegistrationNumber": "HRA 48210",
+            "insolvent": false
+        },
+        {
+            "id": "d876b5a0-52fe-11e9-9d2f-ef163786f65e",
+            "city": "München",
+            "countryCode": "DE",
+            "userRelations": [],
+            "tags": [],
+            "troubleDistanceValue": "NO_RISK",
+            "relationsCount": 7,
+            "type": "COMPANY",
+            "name": "FGF Beteiligungsgesellschaft Nr. 2 mbH",
+            "status": "INACTIVE",
+            "officialRegistrationNumber": "HRB 195074",
+            "insolvent": false
+        }
+    ]
+}
